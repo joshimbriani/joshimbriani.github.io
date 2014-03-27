@@ -1,0 +1,8 @@
+name: "Josh Imbriani"
+description: "My Weblog"
+
+paginate: 10
+
+permalink: pretty
+markdown: redcarpet
+pygments: true
