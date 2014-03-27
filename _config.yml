@@ -3,6 +3,6 @@ description: "My Weblog"
 
 paginate: 10
 
-permalink: pretty
+permalink: /:month-:day-:year/:title
 markdown: redcarpet
 pygments: true
